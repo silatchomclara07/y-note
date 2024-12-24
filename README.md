@@ -135,5 +135,3 @@ Le **Contrôleur** agit comme un intermédiaire entre le Modèle et la Vue. Il t
 ```bash
 composer install    
 ```
-
-
